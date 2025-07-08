@@ -1,0 +1,5 @@
+{
+  "name": "Reclub",
+  "description": "A modern web application to discover, create, and join local sports sessions. Filter by location, date, time, and skill level to find the perfect game, or create your own event for others to join.",
+  "requestFramePermissions": []
+}
